@@ -1,0 +1,9 @@
+D:\LBJ\dotnet\LBJF\LBJF.Models\bin\Debug\netcoreapp3.0\LBJF.Models.deps.json
+D:\LBJ\dotnet\LBJF\LBJF.Models\bin\Debug\netcoreapp3.0\LBJF.Models.dll
+D:\LBJ\dotnet\LBJF\LBJF.Models\bin\Debug\netcoreapp3.0\LBJF.Models.pdb
+D:\LBJ\dotnet\LBJF\LBJF.Models\bin\Debug\netcoreapp3.0\LBJF.Models.xml
+D:\LBJ\dotnet\LBJF\LBJF.Models\obj\Debug\netcoreapp3.0\LBJF.Models.csprojAssemblyReference.cache
+D:\LBJ\dotnet\LBJF\LBJF.Models\obj\Debug\netcoreapp3.0\LBJF.Models.AssemblyInfoInputs.cache
+D:\LBJ\dotnet\LBJF\LBJF.Models\obj\Debug\netcoreapp3.0\LBJF.Models.AssemblyInfo.cs
+D:\LBJ\dotnet\LBJF\LBJF.Models\obj\Debug\netcoreapp3.0\LBJF.Models.dll
+D:\LBJ\dotnet\LBJF\LBJF.Models\obj\Debug\netcoreapp3.0\LBJF.Models.pdb

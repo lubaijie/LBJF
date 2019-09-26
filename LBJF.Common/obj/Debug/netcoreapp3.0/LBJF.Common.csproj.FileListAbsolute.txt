@@ -1,0 +1,5 @@
+D:\LBJ\dotnet\LBJF\LBJF.Common\bin\Debug\netcoreapp3.0\LBJF.Common.deps.json
+D:\LBJ\dotnet\LBJF\LBJF.Common\bin\Debug\netcoreapp3.0\LBJF.Common.dll
+D:\LBJ\dotnet\LBJF\LBJF.Common\obj\Debug\netcoreapp3.0\LBJF.Common.csprojAssemblyReference.cache
+D:\LBJ\dotnet\LBJF\LBJF.Common\obj\Debug\netcoreapp3.0\LBJF.Common.AssemblyInfoInputs.cache
+D:\LBJ\dotnet\LBJF\LBJF.Common\obj\Debug\netcoreapp3.0\LBJF.Common.AssemblyInfo.cs

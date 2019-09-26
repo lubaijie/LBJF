@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29318.209
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebCore", "WebCore\WebCore.csproj", "{2B373759-E8FD-4611-AE9F-6E7FF0FFABA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBJF.Models", "LBJF.Models\LBJF.Models.csproj", "{47C6FFDB-521E-4E56-BFB8-8867EBDA793E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBJF.Common", "LBJF.Common\LBJF.Common.csproj", "{DD37A431-8CF2-4789-896F-4AF37026A41A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B373759-E8FD-4611-AE9F-6E7FF0FFABA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B373759-E8FD-4611-AE9F-6E7FF0FFABA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B373759-E8FD-4611-AE9F-6E7FF0FFABA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B373759-E8FD-4611-AE9F-6E7FF0FFABA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47C6FFDB-521E-4E56-BFB8-8867EBDA793E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C6FFDB-521E-4E56-BFB8-8867EBDA793E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C6FFDB-521E-4E56-BFB8-8867EBDA793E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C6FFDB-521E-4E56-BFB8-8867EBDA793E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD37A431-8CF2-4789-896F-4AF37026A41A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD37A431-8CF2-4789-896F-4AF37026A41A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD37A431-8CF2-4789-896F-4AF37026A41A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD37A431-8CF2-4789-896F-4AF37026A41A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38CA6C77-95E3-4061-95C2-77EF563DDB09}
+	EndGlobalSection
+EndGlobal

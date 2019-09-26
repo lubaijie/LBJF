@@ -1,0 +1,17 @@
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\appsettings.Development.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\appsettings.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\Properties\launchSettings.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.exe
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.deps.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.runtimeconfig.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.runtimeconfig.dev.json
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.dll
+D:\LBJ\dotnet\LBJF\WebCore\bin\Release\netcoreapp3.0\WebCore.pdb
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\staticwebassets\WebCore.StaticWebAssets.Manifest.cache
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\staticwebassets\WebCore.StaticWebAssets.xml
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.MvcApplicationPartsAssemblyInfo.cache
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.AssemblyInfoInputs.cache
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.AssemblyInfo.cs
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.RazorTargetAssemblyInfo.cache
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.dll
+D:\LBJ\dotnet\LBJF\WebCore\obj\Release\netcoreapp3.0\WebCore.pdb

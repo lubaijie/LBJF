@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebCore</name>
+    </assembly>
+    <members>
+        <member name="T:WebCore.Controllers.WeatherForecastController">
+            <summary>
+            系统自带
+            </summary>
+        </member>
+        <member name="M:WebCore.Controllers.WeatherForecastController.Post(LBJF.Models.User)">
+            <summary>
+            测试Post
+            </summary>
+            <param name="user"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

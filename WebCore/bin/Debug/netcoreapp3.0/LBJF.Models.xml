@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LBJF.Models</name>
+    </assembly>
+    <members>
+        <member name="T:LBJF.Models.User">
+            <summary>
+            用户
+            </summary>
+        </member>
+        <member name="P:LBJF.Models.User.UserName">
+            <summary>
+            用户名
+            </summary>
+        </member>
+        <member name="P:LBJF.Models.User.PassWorld">
+            <summary>
+            密码
+            </summary>
+        </member>
+    </members>
+</doc>
